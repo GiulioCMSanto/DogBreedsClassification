@@ -10,6 +10,7 @@ The project explores Convolutional Neural Networks and Transfer Learning.
 ### Files in this Repository
 
 - dog_app.ipynb: a Jupyter Notebook with all the code
+- 
 - dog_app.html: an html version of the Jupyter Notebook
 
 ### Used Libraries
